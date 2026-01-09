@@ -1,4 +1,4 @@
-# AtliQ Hardware Sales Insights 📊 (End-to-End SQL + Power BI)
+# AtliQ Sales Insights 📊 (End-to-End SQL + Power BI)
 
 ## 📌 Project Overview
 Successfully executed an end-to-end data analysis project for **AtliQ Hardware**, a computer hardware manufacturer. This project involved transforming **150,000+ rows of raw, messy transactional data** into an automated, interactive Power BI dashboard to replace a fragmented and unreliable manual reporting system.
