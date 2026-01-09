@@ -64,5 +64,5 @@ The final dashboard provides executive-level KPIs including:
 ## 📂 Repository Contents
 * `db_dump.sql`: The raw SQL data dump.
 * `SQL_Analysis_Queries.sql`: SQL scripts used for initial discovery.
-* `atiq-az'.pbix`: The Power BI project file.
+* `atiq-az.pbix`: The Power BI project file.
 
